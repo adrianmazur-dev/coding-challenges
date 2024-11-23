@@ -16,21 +16,24 @@ Repository containing my solutions to various programming challenges from platfo
 ## 🗂️ Repository Structure
 
 ```
-coding-challenges/
-├── SPOJ/
-│   ├── Problem1/
-│   │   ├── solution.cs
-│   │   └── README.md
-│   └── Problem2/
-│       ├── solution.cs
-│       └── README.md
-└── LeetCode/
-    ├── Problem1/
-    │   ├── solution.cs
-    │   └── README.md
-    └── Problem2/
-        ├── solution.cs
-        └── README.md
+├── src/
+│   ├── CodingChallenges.LeetCode/          # LeetCode solutions
+│   │   ├── Easy/
+│   │   │   └── [ProblemName]/
+│   │   │       ├── Solution.cs               # Solution implementation
+│   │   │       └── README.md                 # Problem description and explanation
+│   │   ├── Medium/
+│   │   └── Hard/
+│   │
+│   └── CodingChallenges.SPOJ/              # SPOJ solutions
+│       ├── Easy/
+│       ├── Medium/
+│       └── Hard/
+│
+├── CodingChallenges.sln                    # Solution file
+├── Directory.Build.props                     # Common properties for all projects
+├── .gitignore
+└── README.md
 ```
 
 ## 🎯 Progress
