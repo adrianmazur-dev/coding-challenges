@@ -1,0 +1,12 @@
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\bin\Debug\net9.0\CodingChallenges.LeetCode.deps.json
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\bin\Debug\net9.0\CodingChallenges.LeetCode.dll
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\bin\Debug\net9.0\CodingChallenges.LeetCode.pdb
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\obj\Debug\net9.0\CodingChallenges.LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\obj\Debug\net9.0\CodingChallenges.LeetCode.AssemblyInfoInputs.cache
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\obj\Debug\net9.0\CodingChallenges.LeetCode.AssemblyInfo.cs
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\obj\Debug\net9.0\CodingChallenges.LeetCode.csproj.CoreCompileInputs.cache
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\obj\Debug\net9.0\CodingChallenges.LeetCode.sourcelink.json
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\obj\Debug\net9.0\CodingChallenges.LeetCode.dll
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\obj\Debug\net9.0\refint\CodingChallenges.LeetCode.dll
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\obj\Debug\net9.0\CodingChallenges.LeetCode.pdb
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.LeetCode\obj\Debug\net9.0\ref\CodingChallenges.LeetCode.dll

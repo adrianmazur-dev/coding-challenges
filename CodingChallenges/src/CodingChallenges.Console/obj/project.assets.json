@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "CodingChallenges.LeetCode/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CodingChallenges.LeetCode.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodingChallenges.LeetCode.dll": {}
+        }
+      },
+      "CodingChallenges.SPOJ/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CodingChallenges.SPOJ.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodingChallenges.SPOJ.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CodingChallenges.LeetCode/1.0.0": {
+      "type": "project",
+      "path": "../CodingChallenges.LeetCode/CodingChallenges.LeetCode.csproj",
+      "msbuildProject": "../CodingChallenges.LeetCode/CodingChallenges.LeetCode.csproj"
+    },
+    "CodingChallenges.SPOJ/1.0.0": {
+      "type": "project",
+      "path": "../CodingChallenges.SPOJ/CodingChallenges.SPOJ.csproj",
+      "msbuildProject": "../CodingChallenges.SPOJ/CodingChallenges.SPOJ.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "CodingChallenges.LeetCode >= 1.0.0",
+      "CodingChallenges.SPOJ >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\adria\\.nuget\\packages\\": {}
@@ -31,7 +66,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\adria\\Repos\\coding-challenges\\CodingChallenges\\src\\CodingChallenges.LeetCode\\CodingChallenges.LeetCode.csproj": {
+              "projectPath": "C:\\Users\\adria\\Repos\\coding-challenges\\CodingChallenges\\src\\CodingChallenges.LeetCode\\CodingChallenges.LeetCode.csproj"
+            },
+            "C:\\Users\\adria\\Repos\\coding-challenges\\CodingChallenges\\src\\CodingChallenges.SPOJ\\CodingChallenges.SPOJ.csproj": {
+              "projectPath": "C:\\Users\\adria\\Repos\\coding-challenges\\CodingChallenges\\src\\CodingChallenges.SPOJ\\CodingChallenges.SPOJ.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -41,8 +41,8 @@ Repository containing my solutions to various programming challenges from platfo
 | Platform | 🟢 Easy | 🟡 Medium | 🔴 Hard | Total |
 |:---------|:-------:|:---------:|:-------:|:-----:|
 | ![SPOJ](https://img.shields.io/badge/SPOJ-000000?style=flat-square&logo=spoj&logoColor=white) | 0 | 0 | 0 | 0 |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | 0 | 0 | 0 | 0 |
-| **Total** | 0 | 0 | 0 | 0 |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | 1 | 0 | 0 | 1 |
+| **Total** | 1 | 0 | 0 | 1 |
 
 ## 💻 How to Run Solutions
 
