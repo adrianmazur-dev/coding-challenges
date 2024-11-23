@@ -1,4 +1,4 @@
-# 🚀 Algorithm Problem Solving
+# 🚀 Coding challenges
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![SPOJ](https://img.shields.io/badge/SPOJ-000000?style=for-the-badge&logo=spoj&logoColor=white)](https://www.spoj.com/)
@@ -41,8 +41,8 @@ Repository containing my solutions to various programming challenges from platfo
 | Platform | 🟢 Easy | 🟡 Medium | 🔴 Hard | Total |
 |:---------|:-------:|:---------:|:-------:|:-----:|
 | ![SPOJ](https://img.shields.io/badge/SPOJ-000000?style=flat-square&logo=spoj&logoColor=white) | 0 | 0 | 0 | 0 |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | 1 | 0 | 0 | 1 |
-| **Total** | 1 | 0 | 0 | 1 |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | 2 | 0 | 0 | 2 |
+| **Total** | 2 | 0 | 0 | 2 |
 
 ## 💻 How to Run Solutions
 
