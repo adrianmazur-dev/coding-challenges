@@ -1,4 +1,4 @@
-# 🚀 Algorithm Problem Solving
+# 🚀 Coding challenges
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![SPOJ](https://img.shields.io/badge/SPOJ-000000?style=for-the-badge&logo=spoj&logoColor=white)](https://www.spoj.com/)
