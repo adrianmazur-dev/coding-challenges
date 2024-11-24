@@ -1,0 +1,12 @@
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\bin\Debug\net9.0\CodingChallenges.SPOJ.deps.json
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\bin\Debug\net9.0\CodingChallenges.SPOJ.dll
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\bin\Debug\net9.0\CodingChallenges.SPOJ.pdb
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\obj\Debug\net9.0\CodingChallenges.SPOJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\obj\Debug\net9.0\CodingChallenges.SPOJ.AssemblyInfoInputs.cache
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\obj\Debug\net9.0\CodingChallenges.SPOJ.AssemblyInfo.cs
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\obj\Debug\net9.0\CodingChallenges.SPOJ.csproj.CoreCompileInputs.cache
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\obj\Debug\net9.0\CodingChallenges.SPOJ.sourcelink.json
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\obj\Debug\net9.0\CodingChallenges.SPOJ.dll
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\obj\Debug\net9.0\refint\CodingChallenges.SPOJ.dll
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\obj\Debug\net9.0\CodingChallenges.SPOJ.pdb
+C:\Users\adria\Repos\coding-challenges\CodingChallenges\src\CodingChallenges.SPOJ\obj\Debug\net9.0\ref\CodingChallenges.SPOJ.dll

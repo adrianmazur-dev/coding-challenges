@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CodingChallenges.Console/1.0.0": {
+        "dependencies": {
+          "CodingChallenges.LeetCode": "1.0.0",
+          "CodingChallenges.SPOJ": "1.0.0"
+        },
+        "runtime": {
+          "CodingChallenges.Console.dll": {}
+        }
+      },
+      "CodingChallenges.LeetCode/1.0.0": {
+        "runtime": {
+          "CodingChallenges.LeetCode.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CodingChallenges.SPOJ/1.0.0": {
+        "runtime": {
+          "CodingChallenges.SPOJ.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodingChallenges.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodingChallenges.LeetCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodingChallenges.SPOJ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
